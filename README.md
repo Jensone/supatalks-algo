@@ -2,13 +2,13 @@
 
 ## Phase 1 : Analyse et compréhension du besoin
 
-On prend connaissance de l'ensemble des information et autres données pertinentes pour avoir une meilleure compréhension du besoin. Cela passe par la relecture du notre de cadrage, des question aux personne concernées par exemple.
+On prend connaissance de l'ensemble des informations et autres données pertinentes pour avoir une meilleure compréhension du besoin. Cela passe par la relecture du notre de cadrage, des questions aux personnes concernées par exemple.
 
 ## Phase 2 : Recherche de solutions existantes
 
-Avec des Recherche interne et sur internent, on part à la pêche aux solutions existante afin de s'en inspirer et de mettre en place une solution qui sera adaptée au besoin de SUPATALKS.
+Avec des recherches internes et sur internent, on part à la pêche aux solutions existantes afin de s'en inspirer et de mettre en place une solution qui sera adaptée au besoin de SUPATALKS.
 
-Pour notre cas, l'usage des données récolté ont 2 objectifs. En interne pour la gestion des équipes de SUPATALKS et en externe pour la communication aux internautes.
+Pour notre cas, l'usage des données récoltées ont 2 objectifs. En interne pour la gestion des équipes de SUPATALKS et en externe pour la communication aux internautes.
 
 NOM - Interne/Externe
 PRENOM - Interne/Externe
@@ -20,7 +20,7 @@ PHOTO - Interne/Externe
 
 ## Phase 3 : Conception de la solution
 
-Mise oeuvrfe de nos compétence en alogrithmique et problem solving pour concevoir une solution qui répondra au besoin de SUPATALKS.
+Mise oeuvre de nos compétences en alogrithmique et `problem solving` pour concevoir une solution qui répondra au besoin de SUPATALKS.
 
 
 ### Pseudo code Formulaire
@@ -44,7 +44,7 @@ DEBUT
             SI les informations sont correctes
                 ALORS
                     Les informations sont contôlées avant envoi à la BASE DE DONNEES
-                    SI les informations sont valide
+                    SI les informations sont valides
                         ALORS
                             Les données sont envoyées à la BASE DE DONNEES
                             La BASE DE DONNEES enregistre les informations

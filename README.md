@@ -10,13 +10,13 @@ Avec des recherches internes et sur internent, on part à la pêche aux solution
 
 Pour notre cas, l'usage des données récoltées ont 2 objectifs. En interne pour la gestion des équipes de SUPATALKS et en externe pour la communication aux internautes.
 
-NOM - Interne/Externe
-PRENOM - Interne/Externe
-EMAIL - Interne
-TELEPHONE - Interne
-SPECIALITE - Interne/Externe
-ENTREPRISE - Interne/Externe
-PHOTO - Interne/Externe
+- NOM - Interne/Externe
+- PRENOM - Interne/Externe
+- EMAIL - Interne
+- TELEPHONE - Interne
+- SPECIALITE - Interne/Externe
+- ENTREPRISE - Interne/Externe
+- PHOTO - Interne/Externe
 
 ## Phase 3 : Conception de la solution
 
